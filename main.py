@@ -9,7 +9,7 @@ answer_user = input("What is capital city of Israel?\n1.Tel Aviv\n2.Beer Sheva\n
 if answer_user == "jerusalem":
     print("All the respect! you right!")
 else:
-    print("So close! but the answer is... - jerusalem")
+    print("So close! but the answer is.. - jerusalem")
 
 
 
